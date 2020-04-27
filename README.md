@@ -20,7 +20,7 @@ Usage of Lockphish for attacking targets without prior mutual consent is illegal
 
 ### Usage:
 ```
-git clone https://github.com/thelinuxchoice/lockphish
+https://github.com/rahul2224/lockphish
 cd lockphish
 bash lockphish.sh
 ```
